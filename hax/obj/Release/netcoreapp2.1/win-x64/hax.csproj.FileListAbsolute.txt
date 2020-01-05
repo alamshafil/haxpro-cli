@@ -1,0 +1,14 @@
+C:\Users\Shafil\Documents\GitHub\haxpro-cli\hax\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\Shafil\Documents\GitHub\haxpro-cli\hax\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\Shafil\Documents\GitHub\haxpro-cli\hax\bin\Release\netcoreapp2.1\win-x64\hax.exe
+C:\Users\Shafil\Documents\GitHub\haxpro-cli\hax\bin\Release\netcoreapp2.1\win-x64\hax.deps.json
+C:\Users\Shafil\Documents\GitHub\haxpro-cli\hax\bin\Release\netcoreapp2.1\win-x64\hax.runtimeconfig.json
+C:\Users\Shafil\Documents\GitHub\haxpro-cli\hax\bin\Release\netcoreapp2.1\win-x64\hax.runtimeconfig.dev.json
+C:\Users\Shafil\Documents\GitHub\haxpro-cli\hax\bin\Release\netcoreapp2.1\win-x64\hax.dll
+C:\Users\Shafil\Documents\GitHub\haxpro-cli\hax\bin\Release\netcoreapp2.1\win-x64\hax.pdb
+C:\Users\Shafil\Documents\GitHub\haxpro-cli\hax\obj\Release\netcoreapp2.1\win-x64\hax.csprojAssemblyReference.cache
+C:\Users\Shafil\Documents\GitHub\haxpro-cli\hax\obj\Release\netcoreapp2.1\win-x64\hax.csproj.CoreCompileInputs.cache
+C:\Users\Shafil\Documents\GitHub\haxpro-cli\hax\obj\Release\netcoreapp2.1\win-x64\hax.AssemblyInfoInputs.cache
+C:\Users\Shafil\Documents\GitHub\haxpro-cli\hax\obj\Release\netcoreapp2.1\win-x64\hax.AssemblyInfo.cs
+C:\Users\Shafil\Documents\GitHub\haxpro-cli\hax\obj\Release\netcoreapp2.1\win-x64\hax.dll
+C:\Users\Shafil\Documents\GitHub\haxpro-cli\hax\obj\Release\netcoreapp2.1\win-x64\hax.pdb
